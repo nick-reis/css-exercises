@@ -1,0 +1,22 @@
+.class1
+{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans,  sans-serif;
+}
+
+.font-size
+{
+    font-size: 24px;
+}
+
+#element2
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#element4
+{
+    background-color: lightgreen;
+    font-weight: bold;
+}
